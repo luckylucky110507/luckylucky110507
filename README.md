@@ -23,7 +23,7 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 ### 🏆 Highlights
 
 - 🏅 Participated in the **Innomatics Research Labs EdTech Hackathon** — 24-hour Hackathon
--    Participated in SIH internal Hackathon organizing by IIMT Group of Colleges
+-    Participated in SIH internal Hackathon organized by IIMT Group of Colleges
 
 ---
 
@@ -44,7 +44,7 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 ![OpenCV](https://img.shields.io/badge/Image%20Processing-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM%20%26%20RAG-000000?style=for-the-badge&logo=ai&logoColor=white)
-
+![Github](https://img.shields.io/badge/Github%20%-000000?style=for-the-badge&logo=ai&logoColor=white)
 </div>
 
 ---
