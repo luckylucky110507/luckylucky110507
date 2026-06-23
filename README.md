@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi There 👋, I'm [Your Name]
+# Hi There 👋, I'm [Lucky Kumari]
 
 🎓 **B.Tech (CSE'27) Student** &nbsp;|&nbsp; 🤖 **AI/ML Enthusiast**
 🧠 Exploring **GenAI · LLMs · RAG**
@@ -23,6 +23,7 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 ### 🏆 Highlights
 
 - 🏅 Participated in the **Innomatics Research Labs EdTech Hackathon** — 24-hour Hackathon
+-    Participated in SIH internal Hackathon organizing by IIMT Group of Colleges
 
 ---
 
