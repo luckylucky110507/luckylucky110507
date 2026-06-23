@@ -16,7 +16,7 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 ### 🔭 Currently Focused On
 
 - 🧠 Diving deep into **Machine Learning, GenAI, LLMs & RAG**
-- 🖼️ Building projects in **Image Processing,**
+- 🖼️ Building projects in ** Artificial Intelligence, Machine Learning ,Image Processing,**
 - 💻 Strengthening **DSA & Problem Solving**
 - 🛠️ Designing and building **innovative tech solutions**
 
@@ -44,8 +44,10 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 ![OpenCV](https://img.shields.io/badge/Image%20Processing-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM%20%26%20RAG-000000?style=for-the-badge&logo=ai&logoColor=white)
-![Github](https://img.shields.io/badge/Github%20%-000000?style=for-the-badge&logo=ai&logoColor=white)
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
 
 ---
 
