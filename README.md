@@ -63,7 +63,12 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckylucky110507&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+### 🐍 Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luckylucky110507/luckylucky110507/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/luckylucky110507/luckylucky110507/output/github-snake.svg" />
+</picture>
 </div>
 
 ---
