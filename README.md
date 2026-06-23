@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi There 👋, I'm [Lucky Kumari]
+# Hi There 👋, I'm Lucky Kumari
 
 🎓 **B.Tech (CSE'27) Student** &nbsp;|&nbsp; 🤖 **AI/ML Enthusiast**
 🧠 Exploring **GenAI · LLMs · RAG**
