@@ -22,10 +22,11 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 
 ### 🏆 Highlights
 
-- 🏅 Participated in the **Innomatics Research Labs EdTech Hackathon** — 24-hour Hackathon
--    Participated in SIH internal Hackathon organized by IIMT Group of Colleges
+* 🏅 Participated in the **Innomatics Research Labs EdTech Hackathon** (24-hour Hackathon)
+* 💡 Participated in the **SIH (Smart India Hackathon) Internal Hackathon** organized by **IIMT Group of Colleges**.
+* 🚢 Participated in the **Kaggle – Titanic: Machine Learning from Disaster** competition.
+* 🤖 Built a **Random Forest Classifier** for Titanic Survival Prediction using **Python, Pandas, NumPy, and Scikit-learn**.
 
----
 
 ### 🧰 Tech Stack
 
