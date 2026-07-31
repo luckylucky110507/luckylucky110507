@@ -28,7 +28,21 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,powerbi,git,github,vscode,googlecolab,streamlit,jupyter,pandas,matplotlib,numpy" />
+<img src="https://img.shields.io/badge/%20-3776AB?style=for-the-badge&logo=python&logoColor=white" height="55" />
+<img src="https://img.shields.io/badge/%20-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="55" />
+<img src="https://img.shields.io/badge/%20-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="55" />
+<img src="https://img.shields.io/badge/%20-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" height="55" />
+<img src="https://img.shields.io/badge/%20-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="55" />
+<img src="https://img.shields.io/badge/%20-150458?style=for-the-badge&logo=pandas&logoColor=white" height="55" />
+<img src="https://img.shields.io/badge/%20-013243?style=for-the-badge&logo=numpy&logoColor=white" height="55" />
+<img src="https://img.shields.io/badge/%20-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="55" />
+<img src="https://img.shields.io/badge/%20-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="55" />
+<img src="https://img.shields.io/badge/%20-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="55" />
+<img src="https://img.shields.io/badge/%20-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="55" />
+<img src="https://img.shields.io/badge/%20-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="55" />
+<img src="https://img.shields.io/badge/%20-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="55" />
+<img src="https://img.shields.io/badge/%20-F05032?style=for-the-badge&logo=git&logoColor=white" height="55" />
+<img src="https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=github&logoColor=white" height="55" />
 
 </div>
 
