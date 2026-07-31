@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi There 👋, I'm Lucky Kumari
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Lucky+Kumari" alt="Typing SVG" />
 
 🎓 **B.Tech (CSE'27) Student** &nbsp;|&nbsp; 🤖 **AI/ML Enthusiast**
 🧠 Exploring **GenAI · LLMs · RAG**
@@ -10,29 +10,25 @@
 ---
 
 ### 🚀 About Me
-
 Curiosity-driven Computer Science student passionate about Artificial Intelligence and Machine Learning. I enjoy building intelligent, data-driven systems — from classical ML and image processing to Generative AI applications powered by LLMs and RAG pipelines. Always learning, always building.
 
 ### 🔭 Currently Focused On
-
 - 🧠 Diving deep into **Machine Learning, GenAI, LLMs & RAG**
-- 🖼️ Building projects in ** Artificial Intelligence, Machine Learning ,Image Processing,**
+- 🖼️ Building projects in **Artificial Intelligence, Machine Learning, Image Processing**
 - 💻 Strengthening **DSA & Problem Solving**
 - 🛠️ Designing and building **innovative tech solutions**
 
 ### 🏆 Highlights
-
 * 🏅 Participated in the **Innomatics Research Labs EdTech Hackathon** (24-hour Hackathon)
 * 💡 Participated in the **SIH (Smart India Hackathon) Internal Hackathon** organized by **IIMT Group of Colleges**.
 * 🚢 Participated in the **Kaggle – Titanic: Machine Learning from Disaster** competition.
 * 🤖 Built a **Random Forest Classifier** for Titanic Survival Prediction using **Python, Pandas, NumPy, and Scikit-learn**.
 
-
 ### 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,opencv,tensorflow,pytorch,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,opencv,tensorflow,pytorch,git,github,vscode,jupyter,pandas,numpy" />
 
 </div>
 
@@ -42,29 +38,34 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/Image%20Processing-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM%20%26%20RAG-000000?style=for-the-badge&logo=ai&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=luckylucky110507&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckylucky110507&theme=tokyonight&hide_border=true" width="48%" />
-
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckylucky110507&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
 </div>
 
 <div align="center">
@@ -91,8 +92,5 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 ---
 
 <div align="center">
-
 ⭐️ *Always learning. Always building.*
-
 </div>
-
