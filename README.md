@@ -37,7 +37,7 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 <img src="https://img.shields.io/badge/%20-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="55" />
 <img src="https://img.shields.io/badge/%20-013243?style=for-the-badge&logo=numpy&logoColor=white" height="55" />
 <img src="https://img.shields.io/badge/%20-150458?style=for-the-badge&logo=pandas&logoColor=white" height="55" />
-<img src="https://img.shields.io/badge/%20-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" height="55" />
+<img src="https://img.shields.io/badge/%20-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="55" />
 <img src="https://img.shields.io/badge/%20-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="55" />
 
 </div>
@@ -63,12 +63,12 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=luckylucky110507&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-app-pi.vercel.app/api?username=luckylucky110507&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckylucky110507&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckylucky110507&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-app-pi.vercel.app/api/top-langs/?username=luckylucky110507&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
