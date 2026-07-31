@@ -35,6 +35,7 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 <img src="https://img.shields.io/badge/%20-150458?style=for-the-badge&logo=pandas&logoColor=white" height="55" />
 <img src="https://img.shields.io/badge/%20-013243?style=for-the-badge&logo=numpy&logoColor=white" height="55" />
 <img src="https://img.shields.io/badge/%20-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="55" />
+<img src="https://img.shields.io/badge/%20-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="55" />
 <img src="https://img.shields.io/badge/%20-412991?style=for-the-badge&logo=openai&logoColor=white" height="55" />
 <img src="https://img.shields.io/badge/%20-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="55" />
 <img src="https://img.shields.io/badge/%20-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="55" />
