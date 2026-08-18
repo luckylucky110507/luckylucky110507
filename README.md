@@ -34,7 +34,7 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,keras,git,pycharm&theme=dark&perline=6)
+![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,jupyter,git,pycharm&theme=dark&perline=6)
 
 </div>
 
