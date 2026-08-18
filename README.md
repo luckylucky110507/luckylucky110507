@@ -13,7 +13,7 @@
 Curiosity-driven Computer Science student passionate about Artificial Intelligence and Machine Learning. I enjoy building intelligent, data-driven systems — from classical ML and image processing to Generative AI applications powered by LLMs and RAG pipelines. Always learning, always building.
 
 ### 🔭 Currently Focused On
-- 🧠 Diving deep into **Machine Learning, GenAI, LLMs & RAG**
+- 🧠 Diving deep into **Deep Learning, NLP, Machine Learning, GenAI, LLMs & RAG**
 - 🖼️ Building projects in **Artificial Intelligence, Machine Learning, Image Processing**
 - 💻 Strengthening **DSA & Problem Solving**
 - 🛠️ Designing and building **innovative tech solutions**
@@ -28,33 +28,22 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=mysql,java,python,vscode,git,github&theme=dark&perline=6)
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/%20-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="70" />
-<img src="https://img.shields.io/badge/%20-013243?style=for-the-badge&logo=numpy&logoColor=white" height="70" />
-<img src="https://img.shields.io/badge/%20-150458?style=for-the-badge&logo=pandas&logoColor=white" height="70" />
-<img src="https://img.shields.io/badge/%20-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="70" />
-<img src="https://img.shields.io/badge/%20-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="70" />
-
-</div>
-
-<div align="center">
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="70" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="70" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="70" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="70" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="70" />
 
 </div>
 
