@@ -28,13 +28,13 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=figma,python,vscode,visualstudio,vercel,github&theme=dark&perline=6)
+![Skills](https://skillicons.dev/icons?i=python,vscode,vercel,github,java,mysql&theme=dark&perline=6)
 
 </div>
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,jupyter,anaconda,mysql&theme=dark&perline=6)
+![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,keras,jupyter,sklearn,git&theme=dark&perline=6)
 
 </div>
 
