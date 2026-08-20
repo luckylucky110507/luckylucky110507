@@ -30,11 +30,15 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 
 ![Skills](https://skillicons.dev/icons?i=python,vscode,vercel,github,java,mysql&theme=dark&perline=6)
 
+**Python** &nbsp;|&nbsp; **VS Code** &nbsp;|&nbsp; **Vercel** &nbsp;|&nbsp; **GitHub** &nbsp;|&nbsp; **Java** &nbsp;|&nbsp; **MySQL**
+
 </div>
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,git,pycharm&theme=dark&perline=6)
+![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,streamlit,numpy,pandas,firebase,opencv&theme=dark&perline=8)
+
+**PyTorch** &nbsp;|&nbsp; **TensorFlow** &nbsp;|&nbsp; **Scikit-learn** &nbsp;|&nbsp; **Streamlit** &nbsp;|&nbsp; **NumPy** &nbsp;|&nbsp; **Pandas** &nbsp;|&nbsp; **Firebase** &nbsp;|&nbsp; **OpenCV**
 
 </div>
 
