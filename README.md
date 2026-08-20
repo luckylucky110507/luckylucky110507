@@ -36,9 +36,9 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,streamlit,numpy,pandas,firebase,opencv&theme=dark&perline=8)
+![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,jupyter,git&theme=dark&perline=6)
 
-**PyTorch** &nbsp;|&nbsp; **TensorFlow** &nbsp;|&nbsp; **Scikit-learn** &nbsp;|&nbsp; **Streamlit** &nbsp;|&nbsp; **NumPy** &nbsp;|&nbsp; **Pandas** &nbsp;|&nbsp; **Firebase** &nbsp;|&nbsp; **OpenCV**
+**PyTorch** &nbsp;|&nbsp; **TensorFlow** &nbsp;|&nbsp; **Scikit-learn** &nbsp;|&nbsp; **Pandas** &nbsp;|&nbsp; **Jupyter** &nbsp;|&nbsp; **Git**
 
 </div>
 
