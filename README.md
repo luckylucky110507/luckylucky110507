@@ -36,9 +36,9 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,jupyter,git&theme=dark&perline=6)
+![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,git&theme=dark&perline=6)
 
-**PyTorch** &nbsp;|&nbsp; **TensorFlow** &nbsp;|&nbsp; **Scikit-learn** &nbsp;|&nbsp; **Pandas** &nbsp;|&nbsp; **Jupyter** &nbsp;|&nbsp; **Git**
+**PyTorch** &nbsp;|&nbsp; **TensorFlow** &nbsp;|&nbsp; **Scikit-learn** &nbsp;|&nbsp; **Pandas** &nbsp;|&nbsp; **NumPy** &nbsp;|&nbsp; **Git**
 
 </div>
 
@@ -47,12 +47,12 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-app-pi.vercel.app/api?username=luckylucky110507&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luckylucky110507&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-app-pi.vercel.app/api?username=luckylucky110507&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats-app-pi.vercel.app/api/top-langs/?username=luckylucky110507&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats-app-pi.vercel.app/api/top-langs/?username=luckylucky110507&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luckylucky110507&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
