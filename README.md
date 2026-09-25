@@ -36,9 +36,9 @@ Curiosity-driven Computer Science student passionate about Artificial Intelligen
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=colab,numpy,sklearn,pycharm,anaconda,git&theme=dark&perline=6)
+![Skills](https://skillicons.dev/icons?i=colab,sklearn,kaggle,opencv,pycharm,git&theme=dark&perline=6)
 
-**Google Colab** &nbsp;|&nbsp; **NumPy** &nbsp;|&nbsp; **Scikit-learn** &nbsp;|&nbsp; **PyCharm** &nbsp;|&nbsp; **Anaconda** &nbsp;|&nbsp; **Git**
+**Google Colab** &nbsp;|&nbsp; **Scikit-learn** &nbsp;|&nbsp; **Kaggle** &nbsp;|&nbsp; **OpenCV** &nbsp;|&nbsp; **PyCharm** &nbsp;|&nbsp; **Git**
 
 </div>
 
